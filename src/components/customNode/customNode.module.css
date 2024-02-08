@@ -1,0 +1,46 @@
+.textUpdaterNode {
+  padding: 12px 0px;
+  /* width: 220px; */
+  width: 290px;
+  font-size: 16px;
+  color: #222;
+  text-align: center;
+  border-radius: 5px;
+}
+
+.textUpdaterNodeDefolt {
+  background: #eee;
+  border: 2px solid #555;
+}
+
+.textUpdaterNodeWarning {
+  background: #fffbe6;
+  border: 2px solid #faad14;
+}
+
+.textUpdaterNodeError {
+  background: #fff2e8;
+  border: 2px solid #fa541c;
+}
+
+.contentPopoverText {
+  color: #222;
+}
+.contentPopoverTextError {
+  color: #f5222d;
+}
+
+.antdSelect {
+  /* width: 180px; */
+  width: 250px;
+}
+
+.antdIcon {
+  margin: 0px 0px 0px 7px;
+  font-size: 18px;
+}
+
+.antdButton {
+  width: 100%;
+  margin: 3px 0px 6px 0px;
+}
