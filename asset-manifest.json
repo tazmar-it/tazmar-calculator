@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tazmar-calculator/static/css/main.a9f3f3cc.css",
+    "main.js": "/tazmar-calculator/static/js/main.84cc91b2.js",
+    "index.html": "/tazmar-calculator/index.html",
+    "main.a9f3f3cc.css.map": "/tazmar-calculator/static/css/main.a9f3f3cc.css.map",
+    "main.84cc91b2.js.map": "/tazmar-calculator/static/js/main.84cc91b2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9f3f3cc.css",
+    "static/js/main.84cc91b2.js"
+  ]
+}
